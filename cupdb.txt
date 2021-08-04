@@ -327,340 +327,111 @@ Algeria 1-1 Russia
 Arena da Baixada, Curitiba 
 [Islam Slimani 60'; Alexander Kokorin 6']
 
-Artilharia
-1
-Matchday 1
-Thu Jun/12 17:00
-3-1
-Brazil
-Croatia
-Arena de Sao Paulo, Sao Paulo
-2
-Matchday 2
-Fri Jun/13 13:00
-1-0
-Mexico
-Cameroon
-Estadio das Dunas, Natal
-17
-Matchday 6
-Tue Jun/17 16:00
-0-0
-Brazil
-Mexico
-Estadio Castelao, Fortaleza
-18
-Matchday 7
-Wed Jun/18 18:00
-0-4
-Cameroon
-Croatia
-Arena Amazonia, Manaus
-33
-Matchday 12
-Mon Jun/23 17:00
-1-4
-Cameroon
-Brazil
-Estadio Nacional Mane Garrincha, Brasilia
-34
-Matchday 12
-Mon Jun/23 17:00
-1-3
-Croatia 
-Mexico
-Arena Pernambuco, Recife
-3
-Matchday 2
-Fri Jun/13 16:00
-1-5
-Spain
-Netherlands
-Arena Fonte Nova, Salvador
-4
-Matchday 2
-Fri Jun/13 18:00
-3-1
-Chile
-Australia
-Arena Pantanal, Cuiaba
-19
-Matchday 7
-Wed Jun/18 16:00
-0-2
-Spain
-Chile
-Estadio do Maracana, Rio de Janeiro
-20
-Matchday 7
-Wed Jun/18 13:00
-2-3
-Australia
-Netherlands
-Estadio Beira-Rio, Porto Alegre
-35
-Matchday 12
-Mon Jun/23 13:00
-0-3
-Australia
-Spain
-Arena da Baixada, Curitiba
-36
-Matchday 12
-Mon Jun/23 13:00
-2-0
-Netherlands
-Chile
-Arena de Sao Paulo, Sao Paulo
-5
-Matchday 3
-Sat Jun/14 13:00
-3-0
-Colombia
-Greece
-Estadio Mineirao, Belo Horizonte
-6
-Matchday 3
-Sat Jun/14 22:00
-2-1
-Cote d'Ivoire
-Japan
-Arena Pernambuco, Recife
-21
-Matchday 8
-Thu Jun/19 13:00
-2-1
-Colombia
-Cote d'Ivoire
-Estadio Nacional Mane Garrincha, Brasilia
-22
-Matchday 8
-Thu Jun/19 19:00
-0-0
-Japan
-Greece
-Estadio das Dunas, Natal
-37
-Matchday 13
-Tue Jun/24 16:00
-1-4
-Japan
-Colombia
-Arena Pantanal, Cuiaba
-38
-Matchday 13
-Tue Jun/24 17:00
-2-1
-Greece
-Cote d'Ivoire
-Estadio Castelao, Fortaleza
-7
-Matchday 3
-Sat Jun/14 16:00
-1-3
-Uruguay
-Costa Rica
-Estadio Castelao, Fortaleza
-8
-Matchday 3
-Sat Jun/14 18:00
-1-2
-England
-Italy
-Arena Amazonia, Manaus
-23
-Matchday 8
-Thu Jun/19 16:00
-2-1
-Uruguay
-England
-Arena de Sao Paulo, Sao Paulo
-24
-Matchday 9
-Fri Jun/20 13:00
-0-1
-Italy
-Costa Rica
-Arena Pernambuco, Recife
-39
-Matchday 13
-Tue Jun/24 13:00
-0-1
-Italy
-Uruguay
-Estadio das Dunas, Natal
-40
-Matchday 13
-Tue Jun/24 13:00
-0-0
-Costa Rica
-England
-Estadio Mineirao, Belo Horizonte
-9
-Matchday 4
-Sun Jun/15 13:00
-2-1
-Switzerland
-Ecuador
-Estadio Nacional Mane Garrincha, Brasilia
-10
-Matchday 4
-Sun Jun/15 16:00
-3-0
-France
-Honduras
-Estadio Beira-Rio, Porto Alegre
-25
-Matchday 9
-Fri Jun/20 16:00
-2-5
-Switzerland
-France
-Arena Fonte Nova, Salvador
-26
-Matchday 9
-Fri Jun/20 19:00
-1-2
-Honduras
-Ecuador
-Arena da Baixada, Curitiba
-41
-Matchday 14
-Wed Jun/25 16:00
-0-3
-Honduras
-Switzerland
-Arena Amazonia, Manaus
-42
-Matchday 14
-Wed Jun/25 17:00
-0-0
-Ecuador 
-France
-Estadio do Maracana, Rio de Janeiro
-11
-Matchday 4
-Sun Jun/15 19:00
-2-1
-Argentina
-Bosnia-Herzegovina
-Estadio do Maracana, Rio de Janeiro
-12
-Matchday 5
-Mon Jun/16 16:00
-0-0
-Iran
-Nigeria
-Arena da Baixada, Curitiba
-27
-Matchday 10
-Sat Jun/21 13:00
-1-0
-Argentina
-Iran
-Estadio Mineirao, Belo Horizonte
-28
-Matchday 10
-Sat Jun/21 18:00
-1-0
-Nigeria
-Bosnia-Herzegovina
-Arena Pantanal, Cuiaba
-43
-Matchday 14
-Wed Jun/25 13:00
-2-3
-Nigeria
-Argentina
-Estadio Beira-Rio, Porto Alegre
-44
-Matchday 14
-Wed Jun/25 13:00
-3-1
-Bosnia-Herzegovina
-Iran
-Arena Fonte Nova, Salvador
-13
-Matchday 5
-Mon Jun/16 13:00
-4-0
-Germany
-Portugal
-Arena Fonte Nova, Salvador
-14
-Matchday 5
-Mon Jun/16 19:00
-1-2
-Ghana
-United States
-Estadio das Dunas, Natal
-29
-Matchday 10
-Sat Jun/21 16:00
-2-2
-Germany
-Ghana
-Estadio Castelao, Fortaleza
-30
-Matchday 11
-Sun Jun/22 18:00
-2-2
-United States
-Portugal
-Arena Amazonia, Manaus
-45
-Matchday 15
-Thu Jun/26 13:00
-0-1
-United States
-Germany
-Arena Pernambuco, Recife
-46
-Matchday 15
-Thu Jun/26 13:00
-2-1
-Portugal
-Ghana
-Estadio Nacional Mane Garrincha, Brasilia
-15
-Matchday 6
-Tue Jun/17 13:00
-2-1
-Belgium
-Algeria
-Estadio Mineirao, Belo Horizonte
-16
-Matchday 6
-Tue Jun/17 18:00
-1-1
-Russia
-South Korea
-Arena Pantanal, Cuiaba
-31
-Matchday 11
-Sun Jun/22 13:00
-1-0
-Belgium
-Russia
-Estadio do Maracana, Rio de Janeiro
-32
-Matchday 11
-Sun Jun/22 16:00
-2-4
-South Korea
-Algeria
-Estadio Beira-Rio, Porto Alegre
-47
-Matchday 15
-Thu Jun/26 17:00
-0-1
-South Korea
-Belgium
-Arena de Sao Paulo, Sao Paulo
-48
-Matchday 15
-Thu Jun/26 17:00
-1-1
-Algeria
-Russia
-Arena da Baixada, Curitiba
+
+---- ARTILHEIROS ----
+Neymar              4
+Lionel Messi        4
+Thomas Muller       4
+Robin Van Persie    3
+Arjen Robben        3
+James Rodriguez     3
+Enner Valencia      3
+Karim Benzema       3
+Xherdan Shaqiri     3
+Ivan Perisic        2
+Mario Mandzukic     2
+Memphis Depay       2
+Wilfried Bony       2
+Gervinho            2
+Jackson Martinez    2
+Luis Suarez         2
+Ahmed Musa          2
+Andre Ayew          2
+Clint Dempsey       2
+Asamoah Gyan        2
+Islam Slimani       2
+Oscar               1
+Oribe Peralta       1
+Ivica Olic          1
+Joel Matip          1
+Fred                1
+Fernandinho         1
+Rafael Marquez      1
+Andres Guardado     1
+Javier Hernandez    1
+Xabi Alonso         1
+Stefan De Vrij      1
+Alexis Sanchez      1
+Jorge Valdivia      1
+Jean Beausejour     1
+Cahill              1
+Eduardo Vargas      1
+Charles Aranguiz    1
+Tim Cahill          1
+Mile Jedinak        1
+David Villa         1
+Fernando Torres     1
+Juan Mata           1
+Leroy Fer           1
+Pablo Armero        1
+Teofilo Gutierrez   1
+Keisuke Honda       1
+Juan Quintero       1
+Shinji Okazaki      1
+Juan Cuadrado       1
+Andreas Samaris     1
+Georgios Samaras    1
+Edinson Cavani      1
+Joel Campbell       1
+Oscar Duarte        1
+Marcos Urena        1
+Daniel Sturridge    1
+Claudio Marchisio   1
+Mario Balotelli     1
+Wayne Rooney        1
+Bryan Ruiz          1
+Diego Godin         1
+Admir Mehmedi       1
+Haris Seferovic     1
+Blerim Dzemaili     1
+Granit Xhaka        1
+Olivier Giroud      1
+Blaise Matuidi      1
+Mathieu Valbuena    1
+Moussa Sissoko      1
+Carlo Costly        1
+Vedad Ibisevic      1
+Peter Odemwingie    1
+Marcos Rojo         1
+Edin Dzeko          1
+Miralem Pjanic      1
+Avdija Vrsajevic    1
+Reza Ghoochannejhad 1
+Mats Hummels        1
+John Brooks         1
+Mario Gotze         1
+Miroslav Klose      1
+Jermaine Jones      1
+Nani                1
+Varela              1
+Cristiano Ronaldo   1
+Marouane Fellaini   1
+Dries Mertens       1
+Sofiane Feghouli    1
+Alexander Kerzhakov 1
+Lee Keunho          1
+Divock Origi        1
+Son Heung Min       1
+Koo Jacheol         1
+Rafik Halliche      1
+Abdelmoumene Djabou 1
+Yacine Brahimi      1
+Jan Vertonghen      1
+Alexander Kokorin   1
+
+
+---- GOLS CONTRA ----
+Marcelo             1
+Noel Valladares     1
+Sead Kolasinac      1
+John Boye           1

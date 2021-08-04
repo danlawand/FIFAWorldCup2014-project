@@ -145,5 +145,20 @@ for item in info:
 for key, item in partida.items():
     print(key, item)
     print()
-f.write('\n')
+f.write('\n\n')
+
+f.write('---- ARTILHEIROS ----\n')
+sort_autores = sorted(autoresGols.items(), key=lambda x: x[1], reverse=True)
+for items in sort_autores:
+    n_spaces = 20 - len(items[0])
+    f.write(items[0] + ' '*n_spaces + str(items[1]))
+    f.write('\n')
+f.write('\n\n')
+
+f.write('---- GOLS CONTRA ----\n')
+sort_golsContra = sorted(golsContra.items(), key=lambda x: x[1], reverse=True)
+for items in sort_golsContra:
+    n_spaces = 20 - len(items[0])
+    f.write(items[0] + ' '*n_spaces + str(items[1]))
+    f.write('\n')
 f.close()
