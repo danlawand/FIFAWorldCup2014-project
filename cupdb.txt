@@ -1,0 +1,666 @@
+= World Cup 2014        # in Brazil
+
+
+Group A  |  Brazil       Croatia              Mexico         Cameroon
+Group B  |  Spain        Netherlands          Chile          Australia
+Group C  |  Colombia     Greece               Cote d'Ivoire  Japan
+Group D  |  Uruguay      Costa Rica           England        Italy
+Group E  |  Switzerland  Ecuador              France         Honduras
+Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
+Group G  |  Germany      Portugal             Ghana          United States
+Group H  |  Belgium      Algeria              Russia         South Korea
+
+
+Matchday 1  |  Thu Jun/12
+Matchday 2  |  Fri Jun/13
+Matchday 3  |  Sat Jun/14
+Matchday 4  |  Sun Jun/15
+Matchday 5  |  Mon Jun/16
+Matchday 6  |  Tue Jun/17
+Matchday 7  |  Wed Jun/18
+Matchday 8  |  Thu Jun/19
+Matchday 9  |  Fri Jun/20
+Matchday 10 |  Sat Jun/21
+Matchday 11 |  Sun Jun/22
+Matchday 12 |  Mon Jun/23
+Matchday 13 |  Tue Jun/24
+Matchday 14 |  Wed Jun/25
+Matchday 15 |  Thu Jun/26
+
+
+
+
+Group A:
+
+1
+Thu Jun/12 17:00
+Brazil 3-1 Croatia       
+Arena de Sao Paulo, Sao Paulo 
+[Neymar 29', 71' (pen.) Oscar 90+1';  Marcelo 11' (o.g.)]
+
+2
+Fri Jun/13 13:00
+Mexico 1-0 Cameroon      
+Estadio das Dunas, Natal 
+[Oribe Peralta 61']
+
+17
+Tue Jun/17 16:00
+Brazil 0-0 Mexico        
+Estadio Castelao, Fortaleza 
+18
+Wed Jun/18 18:00
+Cameroon 0-4 Croatia     
+Arena Amazonia, Manaus 
+[-; Ivica Olic 11' Ivan Perisic 48' Mario Mandzukic 61', 73']
+
+33
+Mon Jun/23 17:00
+Cameroon 1-4 Brazil      
+Estadio Nacional Mane Garrincha, Brasilia 
+[Joel Matip 26'; Neymar 17', 35' Fred 49' Fernandinho 84']
+34
+Mon Jun/23 17:00
+Croatia  1-3 Mexico      
+Arena Pernambuco, Recife 
+[Ivan Perisic 87';  Rafael Marquez 72' Andres Guardado 75' Javier Hernandez 82']
+
+Group B:
+
+3
+Fri Jun/13 16:00
+Spain 1-5 Netherlands     
+Arena Fonte Nova, Salvador 
+[Xabi Alonso 27' (pen.);  Robin Van Persie  44', 72' Arjen Robben 53', 80' Stefan De Vrij 65']
+
+4
+Fri Jun/13 18:00
+Chile 3-1 Australia       
+Arena Pantanal, Cuiaba 
+[Alexis Sanchez 12' Jorge Valdivia 14' Jean Beausejour 90+2'; Cahill 35']
+
+19
+Wed Jun/18 16:00
+Spain 0-2 Chile             
+Estadio do Maracana, Rio de Janeiro 
+[-; Eduardo Vargas 20' Charles Aranguiz 43']
+
+20
+Wed Jun/18 13:00
+Australia 2-3 Netherlands   
+Estadio Beira-Rio, Porto Alegre 
+[Tim Cahill 21' Mile Jedinak 54' (pen.);  Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68']
+
+35
+Mon Jun/23 13:00
+Australia 0-3 Spain         
+Arena da Baixada, Curitiba 
+[-; David Villa 36' Fernando Torres 69' Juan Mata 82']
+
+36
+Mon Jun/23 13:00
+Netherlands 2-0 Chile       
+Arena de Sao Paulo, Sao Paulo 
+[Leroy Fer 77' Memphis Depay 90+2']
+
+Group C:
+
+5
+Sat Jun/14 13:00
+Colombia 3-0 Greece          
+Estadio Mineirao, Belo Horizonte 
+[Pablo Armero 5' Teofilo Gutierrez 58' James Rodriguez 90+3']
+
+6
+Sat Jun/14 22:00
+Cote d'Ivoire 2-1 Japan      
+Arena Pernambuco, Recife 
+[Wilfried Bony 64' Gervinho 66';  Keisuke Honda 16']
+
+21
+Thu Jun/19 13:00
+Colombia 2-1 Cote d'Ivoire   
+Estadio Nacional Mane Garrincha, Brasilia 
+[James Rodriguez 64', Juan Quintero 70';  Gervinho 73']
+
+22
+Thu Jun/19 19:00
+Japan 0-0 Greece             
+Estadio das Dunas, Natal 
+
+37
+Tue Jun/24 16:00
+Japan 1-4 Colombia            
+Arena Pantanal, Cuiaba 
+[Shinji Okazaki 45+1'; Juan Cuadrado 17' (pen.) Jackson Martinez 55', 82' James Rodriguez 90']
+
+38
+Tue Jun/24 17:00
+Greece 2-1 Cote d'Ivoire      
+Estadio Castelao, Fortaleza 
+[Andreas Samaris 42' Georgios Samaras 90+3' (pen.); Wilfried Bony 74']
+
+
+Group D:
+
+7
+Sat Jun/14 16:00
+Uruguay 1-3 Costa Rica       
+Estadio Castelao, Fortaleza 
+[Edinson Cavani 24' (pen.);  Joel Campbell 54' Oscar Duarte 57' Marcos Urena 84']
+
+8
+Sat Jun/14 18:00
+England 1-2 Italy            
+Arena Amazonia, Manaus 
+[Daniel Sturridge 37';  Claudio Marchisio 35' Mario Balotelli 50']
+
+23
+Thu Jun/19 16:00
+Uruguay 2-1 England          
+Arena de Sao Paulo, Sao Paulo 
+[Luis Suarez 39', 85';  Wayne Rooney 75']
+
+24
+Fri Jun/20 13:00
+Italy 0-1 Costa Rica         
+Arena Pernambuco, Recife 
+[-; Bryan Ruiz 44']
+
+39
+Tue Jun/24 13:00
+Italy 0-1 Uruguay             
+Estadio das Dunas, Natal 
+[-; Diego Godin 81']
+
+40
+Tue Jun/24 13:00
+Costa Rica 0-0 England        
+Estadio Mineirao, Belo Horizonte 
+
+
+Group E:
+
+9
+Sun Jun/15 13:00
+Switzerland 2-1 Ecuador      
+Estadio Nacional Mane Garrincha, Brasilia 
+[Admir Mehmedi 48' Haris Seferovic 90+3'; Enner Valencia 22']
+10
+Sun Jun/15 16:00
+France 3-0 Honduras          
+Estadio Beira-Rio, Porto Alegre 
+[Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72']
+
+
+25
+Fri Jun/20 16:00
+Switzerland 2-5 France       
+Arena Fonte Nova, Salvador 
+[Blerim Dzemaili 81' Granit Xhaka 87'; Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73']
+26
+Fri Jun/20 19:00
+Honduras 1-2 Ecuador         
+Arena da Baixada, Curitiba 
+[Carlo Costly 31'; Enner Valencia 34', 65']
+41
+Wed Jun/25 16:00
+Honduras 0-3 Switzerland     
+Arena Amazonia, Manaus 
+[-; Xherdan Shaqiri 6', 31', 71']
+
+42
+Wed Jun/25 17:00
+Ecuador  0-0 France          
+Estadio do Maracana, Rio de Janeiro 
+
+
+Group F:
+
+11
+Sun Jun/15 19:00
+Argentina 2-1 Bosnia-Herzegovina    
+Estadio do Maracana, Rio de Janeiro 
+[Sead Kolasinac 3' (o.g.) Lionel Messi 65'; Vedad Ibisevic 85']
+
+12
+Mon Jun/16 16:00
+Iran 0-0 Nigeria                    
+Arena da Baixada, Curitiba 
+
+27
+Sat Jun/21 13:00
+Argentina 1-0 Iran                  
+Estadio Mineirao, Belo Horizonte 
+[Lionel Messi 90']
+
+28
+Sat Jun/21 18:00
+Nigeria 1-0 Bosnia-Herzegovina      
+Arena Pantanal, Cuiaba 
+[Peter Odemwingie 29']
+
+
+43
+Wed Jun/25 13:00
+Nigeria 2-3 Argentina               
+Estadio Beira-Rio, Porto Alegre 
+[Ahmed Musa 4', 47'; Lionel Messi 3', 45+1' Marcos Rojo 50']
+
+44
+Wed Jun/25 13:00
+Bosnia-Herzegovina 3-1 Iran         
+Arena Fonte Nova, Salvador 
+[Edin Dzeko 23' Miralem Pjanic 59' Avdija Vrsajevic 83'; Reza Ghoochannejhad 82']
+
+Group G:
+
+13
+Mon Jun/16 13:00
+Germany 4-0 Portugal           
+Arena Fonte Nova, Salvador 
+[Thomas Muller 12' (pen.), 45+1', 78', Mats Hummels 32']
+
+14
+Mon Jun/16 19:00
+Ghana 1-2 United States        
+Estadio das Dunas, Natal 
+[Andre Ayew 82';  Clint Dempsey 1', John Brooks 86']
+
+29
+Sat Jun/21 16:00
+Germany 2-2 Ghana              
+Estadio Castelao, Fortaleza 
+[Mario Gotze 51' Miroslav Klose 71'; Andre Ayew  54' Asamoah Gyan 63']
+
+30
+Sun Jun/22 18:00
+United States 2-2 Portugal     
+Arena Amazonia, Manaus 
+[Jermaine Jones 64', Clint Dempsey 81'; Nani 5', Varela 90+5']
+
+45
+Thu Jun/26 13:00
+United States 0-1 Germany       
+Arena Pernambuco, Recife 
+[-; Thomas Muller 55']
+
+46
+Thu Jun/26 13:00
+Portugal 2-1 Ghana              
+Estadio Nacional Mane Garrincha, Brasilia 
+[John Boye 31' (o.g.) Cristiano Ronaldo 80'; Asamoah Gyan 57']
+
+Group H:
+
+15
+Tue Jun/17 13:00
+Belgium 2-1 Algeria         
+Estadio Mineirao, Belo Horizonte 
+[Marouane Fellaini 70' Dries Mertens 80'; Sofiane Feghouli 25' (pen.)]
+16
+Tue Jun/17 18:00
+Russia 1-1 South Korea      
+Arena Pantanal, Cuiaba 
+[Alexander Kerzhakov 74'; Lee Keunho 68']
+31
+Sun Jun/22 13:00
+Belgium 1-0 Russia          
+Estadio do Maracana, Rio de Janeiro 
+[Divock Origi 88']
+
+32
+Sun Jun/22 16:00
+South Korea 2-4 Algeria     
+Estadio Beira-Rio, Porto Alegre 
+[Son Heung Min 50' Koo Jacheol 72'; Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62']
+
+47
+Thu Jun/26 17:00
+South Korea 0-1 Belgium     
+Arena de Sao Paulo, Sao Paulo 
+[-; Jan Vertonghen 78']
+
+48
+Thu Jun/26 17:00
+Algeria 1-1 Russia          
+Arena da Baixada, Curitiba 
+[Islam Slimani 60'; Alexander Kokorin 6']
+
+Artilharia
+1
+Matchday 1
+Thu Jun/12 17:00
+3-1
+Brazil
+Croatia
+Arena de Sao Paulo, Sao Paulo
+2
+Matchday 2
+Fri Jun/13 13:00
+1-0
+Mexico
+Cameroon
+Estadio das Dunas, Natal
+17
+Matchday 6
+Tue Jun/17 16:00
+0-0
+Brazil
+Mexico
+Estadio Castelao, Fortaleza
+18
+Matchday 7
+Wed Jun/18 18:00
+0-4
+Cameroon
+Croatia
+Arena Amazonia, Manaus
+33
+Matchday 12
+Mon Jun/23 17:00
+1-4
+Cameroon
+Brazil
+Estadio Nacional Mane Garrincha, Brasilia
+34
+Matchday 12
+Mon Jun/23 17:00
+1-3
+Croatia 
+Mexico
+Arena Pernambuco, Recife
+3
+Matchday 2
+Fri Jun/13 16:00
+1-5
+Spain
+Netherlands
+Arena Fonte Nova, Salvador
+4
+Matchday 2
+Fri Jun/13 18:00
+3-1
+Chile
+Australia
+Arena Pantanal, Cuiaba
+19
+Matchday 7
+Wed Jun/18 16:00
+0-2
+Spain
+Chile
+Estadio do Maracana, Rio de Janeiro
+20
+Matchday 7
+Wed Jun/18 13:00
+2-3
+Australia
+Netherlands
+Estadio Beira-Rio, Porto Alegre
+35
+Matchday 12
+Mon Jun/23 13:00
+0-3
+Australia
+Spain
+Arena da Baixada, Curitiba
+36
+Matchday 12
+Mon Jun/23 13:00
+2-0
+Netherlands
+Chile
+Arena de Sao Paulo, Sao Paulo
+5
+Matchday 3
+Sat Jun/14 13:00
+3-0
+Colombia
+Greece
+Estadio Mineirao, Belo Horizonte
+6
+Matchday 3
+Sat Jun/14 22:00
+2-1
+Cote d'Ivoire
+Japan
+Arena Pernambuco, Recife
+21
+Matchday 8
+Thu Jun/19 13:00
+2-1
+Colombia
+Cote d'Ivoire
+Estadio Nacional Mane Garrincha, Brasilia
+22
+Matchday 8
+Thu Jun/19 19:00
+0-0
+Japan
+Greece
+Estadio das Dunas, Natal
+37
+Matchday 13
+Tue Jun/24 16:00
+1-4
+Japan
+Colombia
+Arena Pantanal, Cuiaba
+38
+Matchday 13
+Tue Jun/24 17:00
+2-1
+Greece
+Cote d'Ivoire
+Estadio Castelao, Fortaleza
+7
+Matchday 3
+Sat Jun/14 16:00
+1-3
+Uruguay
+Costa Rica
+Estadio Castelao, Fortaleza
+8
+Matchday 3
+Sat Jun/14 18:00
+1-2
+England
+Italy
+Arena Amazonia, Manaus
+23
+Matchday 8
+Thu Jun/19 16:00
+2-1
+Uruguay
+England
+Arena de Sao Paulo, Sao Paulo
+24
+Matchday 9
+Fri Jun/20 13:00
+0-1
+Italy
+Costa Rica
+Arena Pernambuco, Recife
+39
+Matchday 13
+Tue Jun/24 13:00
+0-1
+Italy
+Uruguay
+Estadio das Dunas, Natal
+40
+Matchday 13
+Tue Jun/24 13:00
+0-0
+Costa Rica
+England
+Estadio Mineirao, Belo Horizonte
+9
+Matchday 4
+Sun Jun/15 13:00
+2-1
+Switzerland
+Ecuador
+Estadio Nacional Mane Garrincha, Brasilia
+10
+Matchday 4
+Sun Jun/15 16:00
+3-0
+France
+Honduras
+Estadio Beira-Rio, Porto Alegre
+25
+Matchday 9
+Fri Jun/20 16:00
+2-5
+Switzerland
+France
+Arena Fonte Nova, Salvador
+26
+Matchday 9
+Fri Jun/20 19:00
+1-2
+Honduras
+Ecuador
+Arena da Baixada, Curitiba
+41
+Matchday 14
+Wed Jun/25 16:00
+0-3
+Honduras
+Switzerland
+Arena Amazonia, Manaus
+42
+Matchday 14
+Wed Jun/25 17:00
+0-0
+Ecuador 
+France
+Estadio do Maracana, Rio de Janeiro
+11
+Matchday 4
+Sun Jun/15 19:00
+2-1
+Argentina
+Bosnia-Herzegovina
+Estadio do Maracana, Rio de Janeiro
+12
+Matchday 5
+Mon Jun/16 16:00
+0-0
+Iran
+Nigeria
+Arena da Baixada, Curitiba
+27
+Matchday 10
+Sat Jun/21 13:00
+1-0
+Argentina
+Iran
+Estadio Mineirao, Belo Horizonte
+28
+Matchday 10
+Sat Jun/21 18:00
+1-0
+Nigeria
+Bosnia-Herzegovina
+Arena Pantanal, Cuiaba
+43
+Matchday 14
+Wed Jun/25 13:00
+2-3
+Nigeria
+Argentina
+Estadio Beira-Rio, Porto Alegre
+44
+Matchday 14
+Wed Jun/25 13:00
+3-1
+Bosnia-Herzegovina
+Iran
+Arena Fonte Nova, Salvador
+13
+Matchday 5
+Mon Jun/16 13:00
+4-0
+Germany
+Portugal
+Arena Fonte Nova, Salvador
+14
+Matchday 5
+Mon Jun/16 19:00
+1-2
+Ghana
+United States
+Estadio das Dunas, Natal
+29
+Matchday 10
+Sat Jun/21 16:00
+2-2
+Germany
+Ghana
+Estadio Castelao, Fortaleza
+30
+Matchday 11
+Sun Jun/22 18:00
+2-2
+United States
+Portugal
+Arena Amazonia, Manaus
+45
+Matchday 15
+Thu Jun/26 13:00
+0-1
+United States
+Germany
+Arena Pernambuco, Recife
+46
+Matchday 15
+Thu Jun/26 13:00
+2-1
+Portugal
+Ghana
+Estadio Nacional Mane Garrincha, Brasilia
+15
+Matchday 6
+Tue Jun/17 13:00
+2-1
+Belgium
+Algeria
+Estadio Mineirao, Belo Horizonte
+16
+Matchday 6
+Tue Jun/17 18:00
+1-1
+Russia
+South Korea
+Arena Pantanal, Cuiaba
+31
+Matchday 11
+Sun Jun/22 13:00
+1-0
+Belgium
+Russia
+Estadio do Maracana, Rio de Janeiro
+32
+Matchday 11
+Sun Jun/22 16:00
+2-4
+South Korea
+Algeria
+Estadio Beira-Rio, Porto Alegre
+47
+Matchday 15
+Thu Jun/26 17:00
+0-1
+South Korea
+Belgium
+Arena de Sao Paulo, Sao Paulo
+48
+Matchday 15
+Thu Jun/26 17:00
+1-1
+Algeria
+Russia
+Arena da Baixada, Curitiba
