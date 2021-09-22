@@ -328,6 +328,41 @@ Arena da Baixada, Curitiba
 [Islam Slimani 60'; Alexander Kokorin 6']
 
 
+---- PAÍSES PARTICIPANTES ----
+Brazil
+Croatia
+Mexico
+Cameroon
+Spain
+Netherlands
+Chile
+Australia
+Colombia
+Greece
+Cote d'Ivoire
+Japan
+Uruguay
+Costa Rica
+England
+Italy
+Switzerland
+Ecuador
+France
+Honduras
+Argentina
+Bosnia-Herzegovina
+Iran
+Nigeria
+Germany
+Portugal
+Ghana
+United States
+Belgium
+Algeria
+Russia
+South Korea
+
+
 ---- ARTILHEIROS ----
 Neymar              4
 Lionel Messi        4
@@ -435,3 +470,113 @@ Marcelo             1
 Noel Valladares     1
 Sead Kolasinac      1
 John Boye           1
+
+
+---- PAÍS ARTILHEIRO ----
+Netherlands         10
+Colombia            9
+France              8
+Brazil              7
+Switzerland         7
+Germany             7
+Croatia             6
+Argentina           6
+Algeria             6
+Chile               5
+Mexico              4
+Spain               4
+Cote d'Ivoire       4
+Uruguay             4
+Costa Rica          4
+Bosnia-Herzegovina  4
+Portugal            4
+Ghana               4
+United States       4
+Belgium             4
+Australia           3
+Ecuador             3
+Nigeria             3
+South Korea         3
+Greece              2
+Japan               2
+England             2
+Italy               2
+Russia              2
+Cameroon            1
+Honduras            1
+Iran                1
+
+
+---- PAÍS MENOS VAZADO ----
+Mexico              1
+Costa Rica          1
+Belgium             1
+Brazil              2
+Colombia            2
+France              2
+Germany             2
+Netherlands         3
+Chile               3
+Italy               3
+Ecuador             3
+Argentina           3
+Nigeria             3
+Russia              3
+Greece              4
+Uruguay             4
+England             4
+Bosnia-Herzegovina  4
+Iran                4
+United States       4
+Cote d'Ivoire       5
+Algeria             5
+Croatia             6
+Japan               6
+Switzerland         6
+Ghana               6
+South Korea         6
+Spain               7
+Portugal            7
+Honduras            8
+Cameroon            9
+Australia           9
+
+
+---- SALDO DE GOLS ----
+Netherlands         7
+Colombia            7
+France              6
+Brazil              5
+Germany             5
+Mexico              3
+Costa Rica          3
+Argentina           3
+Belgium             3
+Chile               2
+Switzerland         1
+Algeria             1
+Croatia             0
+Uruguay             0
+Ecuador             0
+Bosnia-Herzegovina  0
+Nigeria             0
+United States       0
+Cote d'Ivoire       -1
+Italy               -1
+Russia              -1
+Greece              -2
+England             -2
+Ghana               -2
+Spain               -3
+Iran                -3
+Portugal            -3
+South Korea         -3
+Japan               -4
+Australia           -6
+Honduras            -7
+Cameroon            -8
+
+
+---- TOTAL DE GOLS ----
+136
+

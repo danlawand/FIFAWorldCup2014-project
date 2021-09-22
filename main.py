@@ -31,10 +31,14 @@ fhand = urllib.request.urlopen(url)
 codigo = list()
 matchDay = dict()
 info = list()
+paises = list()
 partida = dict()
 autoresGols = dict()
 golsContra = dict()
 golsPenaltis = dict()
+paisGolsPro = dict()
+paisGolsSofridos = dict()
+
 i = 0
 golos = 0
 for line in fhand:
@@ -92,6 +96,21 @@ for line in fhand:
             placar = re.findall('([0-9]+-[0-9]+)', jogo[0])
             adversario1 = re.findall('(.+)\s[0-9]+', jogo[0])
             adversario2 = re.findall('[0-9]\s(.+)', jogo[0])
+            adversario1[0] = adversario1[0].strip(' ');
+            adversario2[0] = adversario2[0].strip(' ');
+
+            if adversario1[0] not in paises:
+                paises.append(adversario1[0])
+            if adversario2[0] not in paises:
+                paises.append(adversario2[0])
+            
+            paisGolsPro[adversario1[0]] = paisGolsPro.get(adversario1[0], 0) + int(placar[0][0])
+            paisGolsSofridos[adversario1[0]] = paisGolsSofridos.get(adversario1[0], 0) + int(placar[0][2])
+
+            paisGolsPro[adversario2[0]] = paisGolsPro.get(adversario2[0], 0) + int(placar[0][2])
+            paisGolsSofridos[adversario2[0]] = paisGolsSofridos.get(adversario2[0], 0) + int(placar[0][0])
+
+            
             info.append(placar[0])
             info.append(adversario1[0])
             info.append(adversario2 [0])
@@ -131,11 +150,6 @@ for line in fhand:
         l = l+'\n'
         f.write(l)
         i = i + 1
-soma = 0
-for autor, gol in autoresGols.items():
-    soma = soma + int(gol)
-for autor, gol in golsContra.items():
-    soma = soma + int(gol)
 
 j = 0
 for item in info:
@@ -147,11 +161,23 @@ for key, item in partida.items():
     print()
 f.write('\n\n')
 
+
+
+paisListaGols = dict()
+f.write('---- PAÍSES PARTICIPANTES ----\n')
+for pais in paises:
+    paisListaGols[pais] = []
+    f.write(pais)
+    f.write('\n')
+f.write('\n\n')
+
+numero_gols_total = 0
 f.write('---- ARTILHEIROS ----\n')
 sort_autores = sorted(autoresGols.items(), key=lambda x: x[1], reverse=True)
 for items in sort_autores:
     n_spaces = 20 - len(items[0])
     f.write(items[0] + ' '*n_spaces + str(items[1]))
+    numero_gols_total = numero_gols_total + items[1]
     f.write('\n')
 f.write('\n\n')
 
@@ -160,5 +186,49 @@ sort_golsContra = sorted(golsContra.items(), key=lambda x: x[1], reverse=True)
 for items in sort_golsContra:
     n_spaces = 20 - len(items[0])
     f.write(items[0] + ' '*n_spaces + str(items[1]))
+    numero_gols_total = numero_gols_total + items[1]
     f.write('\n')
+f.write('\n\n')
+
+
+
+f.write('---- PAÍS ARTILHEIRO ----\n')
+sort_paisGolsPro = sorted(paisGolsPro.items(), key=lambda x: x[1], reverse=True)
+for items in sort_paisGolsPro:
+    pais = items[0]
+    gols = items[1]
+    paisListaGols[pais].append(gols)
+    n_spaces = 20 - len(items[0])
+    f.write(items[0] + ' '*n_spaces + str(items[1]))
+    f.write('\n')
+f.write('\n\n')
+
+f.write('---- PAÍS MENOS VAZADO ----\n')
+sort_paisGolsSofridos = sorted(paisGolsSofridos.items(), key=lambda x: x[1])
+for items in sort_paisGolsSofridos:
+    pais = items[0]
+    gols = items[1]
+    paisListaGols[pais].append(gols)
+    n_spaces = 20 - len(items[0])
+    f.write(items[0] + ' '*n_spaces + str(items[1]))
+    f.write('\n')
+f.write('\n\n')
+
+paisSaldoGols = dict()
+for pais in paises:
+    paisSaldoGols[pais] = paisListaGols[pais][0] - paisListaGols[pais][1]
+
+f.write('---- SALDO DE GOLS ----\n')
+sort_paisSaldoGols = sorted(paisSaldoGols.items(), key=lambda x: x[1], reverse=True)
+for items in sort_paisSaldoGols:
+    n_spaces = 20 - len(items[0])
+    f.write(items[0] + ' '*n_spaces + str(items[1]))
+    f.write('\n')
+f.write('\n\n')
+
+
+
+f.write('---- TOTAL DE GOLS ----\n')
+f.write(str(numero_gols_total))
+f.write('\n\n')
 f.close()
